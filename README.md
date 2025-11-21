@@ -1,2 +1,0 @@
-# apiREST-producto
-CRUD

@@ -1,0 +1,32 @@
+{
+  "name": "proyecto",
+  "version": "1.0.0",
+  "description": "api para clases de SOD",
+  "keywords": [
+    "CRUD",
+    "REST",
+    "node",
+    "express",
+    "mongo"
+  ],
+  "homepage": "https://github.com/Alfonso647/apiREST-producto#readme",
+  "bugs": {
+    "url": "https://github.com/Alfonso647/apiREST-producto/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alfonso647/apiREST-producto.git"
+  },
+  "license": "ISC",
+  "author": "Alfonso Íñiguez",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongodb": "^7.0.0",
+    "mongoose": "^8.20.1"
+  }
+}
